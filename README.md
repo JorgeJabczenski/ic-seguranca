@@ -26,5 +26,5 @@ sudo apt install ltrace strace git vim
 - Mudar o install de gcc-9 para gcc-8
 
 ## VM
- - [Vídeo](https://www.youtube.com/watch?v=KJ5pObje1Dk)
+ - [Mudar Resolução da VM no Debian](https://www.youtube.com/watch?v=KJ5pObje1Dk)
 
