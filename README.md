@@ -3,7 +3,9 @@
 
 ## Debian
 - Para dar root para o usuário, editar o arquivo /etc/sudoers e adicionar
-> user ALL=(ALL:ALL) ALL
+```
+user ALL=(ALL:ALL) ALL
+```
 
 - Mudar o espelho no /etc/apt/sources.list
 ```
@@ -22,3 +24,7 @@ sudo apt install ltrace strace git vim
 ## Beef
 - [BeEF](https://beefproject.com/)
 - Mudar o install de gcc-9 para gcc-8
+
+## VM
+ - [Vídeo](https://www.youtube.com/watch?v=KJ5pObje1Dk)
+
