@@ -24,7 +24,7 @@ sudo apt install ltrace strace git vim
 ## Beef
 - [BeEF](https://beefproject.com/)
 - Mudar o install de gcc-9 para gcc-8 (Apenas no Debian)
-- [Configurar Metasploits] (https://nullsec.us/integrating-beef-and-metasploit/)
+- [Configurar Metasploits](https://nullsec.us/integrating-beef-and-metasploit/)
 
 ## VM
  - [Mudar Resolução da VM no Debian](https://www.youtube.com/watch?v=KJ5pObje1Dk)<br>
