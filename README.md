@@ -36,3 +36,13 @@ load msgrpc ServerHost=127.0.0.1 User=msf Pass=<password> SSL=y
  - [Mudar Resolução da VM no Debian](https://www.youtube.com/watch?v=KJ5pObje1Dk)<br>
  ![img](https://github.com/JorgeJabczenski/ic-seguranca/blob/main/imgs/inserir%20imagem%20de%20CD.png)
 
+## Links
+- https://blackarch.org/tools.html
+- https://www.g2.com/products/beef/competitors/alternatives
+- https://linuxsecurity.expert/tools/beef/alternatives/
+- https://br.malwarebytes.com/cryptojacking/
+- https://github.com/monero-ecosystem/monero-GUI-guide/blob/master/monero-GUI-guide.md
+- https://www.getmonero.org/resources/user-guides/
+- https://github.com/monero-ecosystem/monero-javascript
+- https://www.getmonero.org/resources/developer-guides/
+
